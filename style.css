@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Home-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+    font-family: "bree serif";
+    text-align: center;
+}
+
+.home-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.heading {
+    color: #f19116;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 55px;
+}
+
+.slogan {
+    color: #7b8794;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: "roboto";
+    font-size: 28px;
+    height: 69px;
+    width: 170px;
+}
+
+.FlatList-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    font-family: "bree Serif";
+    padding: 40px 40px 30px 30px;
+}
+
+.list-card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+.heading1 {
+    color: #f19116;
+    margin-bottom: 10px;
+    font-size: 58px;
+}
+
+.image {
+    height: 460px;
+    width: 280px;
+}
+
+.heading2 {
+    color: #0f0e46;
+    font-size: 69px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.text {
+    font-size: 33px;
+    color: #6c6b70;
+}
+
+.text-card {
+    padding: 30px 30px 0px 27px;
+}
+
+.button1 {
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: "roboto";
+    font-size: 28px;
+    height: 69px;
+    width: 170px;
+    margin-top: -10px;
+}
+
+.flat-card {
+    background-color: #222222;
+    padding: 40px;
+    font-family: "Bree Serif";
+}
+
+.heading3 {
+    color: #f19116;
+    font-size: 63px;
+    margin-bottom: 28px;
+    margin-top: 28px;
+}
+
+.location {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.image1 {
+    height: 64px;
+    margin-right: 26px;
+}
+
+.address {
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.line {
+    background-color: #ffffff;
+    height: 7px;
+    margin-top: 17px;
+}
+
+.flat-detail {
+    color: #ffffff;
+    font-size: 38px;
+    margin-bottom: 65px;
+    margin-top: 25px;
+}
+
+.button-card {
+    display: flex;
+    justify-content: center;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: "roboto";
+    font-size: 28px;
+    height: 69px;
+    width: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
